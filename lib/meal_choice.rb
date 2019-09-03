@@ -8,3 +8,6 @@ end
 def meal_choice_with_vegetables_protein_optional(protein ="meat", veg1, veg2)
   puts "A plate of #{protein} with #{veg1} and #{veg2}."
 end
+def meal_choice_vegetarian(veg1, veg2)
+  puts "A plate of #{veg1} and #{veg2}."
+end
