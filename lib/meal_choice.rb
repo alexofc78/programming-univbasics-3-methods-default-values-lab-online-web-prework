@@ -1,2 +1,4 @@
 def meal_choice.rb
-  puts # Your code here
+  puts "What a nutritious meal!"
+  end
+  # Your code here
