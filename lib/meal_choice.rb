@@ -11,3 +11,4 @@ end
 def meal_choice_vegetarian(veg1, veg2)
   puts "A plate of #{veg1} and #{veg2}."
 end
+meal_choice (protein, veg1, veg2) = (chicken, broccoli, asparagus)
